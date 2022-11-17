@@ -1,3 +1,3 @@
-# C_Plus_Plus
-Learning C++ 
+# C++
+Learning C++
 My Notes as well
